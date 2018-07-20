@@ -1,0 +1,1 @@
+# shamansoft-corp-site
