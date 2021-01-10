@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(80, 7, 7);
+    color: white;
+}
+div.message{
+    font-size: 300px;
+    text-align: center;
+}
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+  }
+div.info{
+    color:#888;
+    position:absolute;
+    right:0;
+    font-size: smaller;
+}
+div.copyright {
+    font-size: 12px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
